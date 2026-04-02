@@ -9,7 +9,7 @@ A powerful, client-side compression and optimization tool for images and videos 
 
 ##  Live Demo
 
-[View Live Demo](https://your-demo-link.vercel.app) <!-- Replace with your actual demo link -->
+<img width="1904" height="909" alt="image" src="https://github.com/user-attachments/assets/e62d9b8e-07b5-4c98-ba20-b0567a8cba6d" />
 
 ##  Features
 
