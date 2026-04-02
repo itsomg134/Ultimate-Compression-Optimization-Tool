@@ -229,7 +229,16 @@ Contributions are welcome! Here's how you can help:
 
 Distributed under the MIT License. See `LICENSE` file for more information.
 
-##  Contact & Support
+##  Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/compression-optimization-tool/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/compression-optimization-tool/discussions)
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
